@@ -1,1 +1,1 @@
-sqlite3 bears < seed.sql
+sqlite3 bears.db < seed.sql
